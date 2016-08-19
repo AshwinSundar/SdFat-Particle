@@ -1,7 +1,7 @@
 {
   "name": "SdFat",
-  "author": "William Greiman <fat16lib@sbcglobal.net>",
+  "author": "Ashwin Sundar <ashwin.sundar@asu.edu>",
   "license": "GPL v3",
-  "version": "0.0.3",
-  "description": "An SD card library for Particle."
+  "version": "0.0.1",
+  "description": "An SD card library for Particle. Exactly the same as SdFat 0.0.3 by William Greiman, except the cardErrorCode() function in SdFat is made public."
 }
